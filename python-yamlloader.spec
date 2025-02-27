@@ -8,6 +8,7 @@ License:	BSD
 Group:		Development/Python
 BuildRequires:	python
 BuildRequires:	python%{pyver}dist(hatchling)
+BuildRequires:	python%{pyver}dist(hatch-vcs)
 BuildSystem:	python
 BuildArch:	noarch
 
